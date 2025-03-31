@@ -6,7 +6,7 @@ Repositório com os ativos visuais das provas da plataforma Foco Total.
 ### Serviços
 Este projeto utiliza (ou utilizou) as seguintes ferramentas de IA:
 - **ChatGPT** (GPT3.5, GPT4o, o1 mini, o3 mini) para criação, depuração e melhoria de código.
-- **HuggingChat** (Llama 3.3, DeepSeek R1 Distill Qwen, Qwen 2.5) para criação, depuração e melhoria de código.
+- **GitHub Copilot (via VS Code)** (com Claude 3.5 Sonnet e GPT-4o) para criação, depuração e melhoria de código.
 - **DeepSeek V3/R1** (Deep Seek) para criação, depuração e melhoria de código.
 
 ### Especificidades
