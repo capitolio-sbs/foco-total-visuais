@@ -6,7 +6,7 @@ const path = require('path');
 const fs = require('fs');
 
 // Define o diretório de saída
-const outputDir = "/home/capitolio/Code/foco-total-visuais/INEP/2021/Regular";
+const outputDir = "/home/capitolio/Code/foco-total-visuais/INEP/2024/Regular";
 
 // Certifique-se de que o diretório de saída existe
 if (!fs.existsSync(outputDir)) {
