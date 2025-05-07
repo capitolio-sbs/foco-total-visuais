@@ -1,4 +1,4 @@
-# # <img src="https://cdn.jsdelivr.net/gh/capitolio-sbs/foco-total-visuais@main/publico/material-symbols--chip-extraction-rounded.svg" alt="Extraction icon" style="max-width: 100%; height: auto;"> Foco-Total-Visuais para Extração de Dados de Entrada
+# <img src="https://cdn.jsdelivr.net/gh/capitolio-sbs/foco-total-visuais@main/publico/material-symbols--chip-extraction-rounded.svg" alt="Extraction icon" style="max-width: 100%; height: auto;"> Foco-Total-Visuais para Extração de Dados de Entrada
 Repositório com os ativos visuais das provas da plataforma Foco Total.
 
 ## Serviços de Terceiros e Licenças
